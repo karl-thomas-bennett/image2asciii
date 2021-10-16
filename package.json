@@ -4,6 +4,7 @@
   "description": "\"Converts images to ascii art",
   "main": "index.js",
   "dependencies": {
+    "sharp": "^0.29.1",
     "svg2img": "^0.9.4",
     "ttf2svg": "^1.2.0"
   },
